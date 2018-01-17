@@ -13,7 +13,7 @@ export TWITTER_ACCESS_TOKEN_SECRET='my-access-secret'
 ```
 
 or in application.conf
-,,,
+```bash
 twitter {
   consumer {
     key = "xxxx"
@@ -24,6 +24,6 @@ twitter {
     secret = "xxx"
   }
 }
-'''
+```
 
 
