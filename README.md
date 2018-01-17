@@ -1,6 +1,8 @@
 # tweetstats
 Example application built as a non-blocking tweet parser using Scala's Akka Actor library  
 
+Just run it at the sbt prompt and you will get a report of statistics every 5 seconds
+
 
 ## Usage
 Add your consumer and access token as environment variables:
