@@ -7,7 +7,7 @@ Hit Enter to end the reporting (you do have to Ctrl-C out of the sbt prompt unfo
 
 
 ## Usage
-Add your consumer and access token as environment variables:
+Add your consumer and access token as environment variables (Here is how to generate them from  your twitter account: https://developer.twitter.com/en/docs/basics/authentication/guides/access-tokens) :
 
 ```bash
 export TWITTER_CONSUMER_TOKEN_KEY='my-consumer-key'
